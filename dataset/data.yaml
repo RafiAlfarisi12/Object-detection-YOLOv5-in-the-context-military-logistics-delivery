@@ -1,0 +1,23 @@
+names:
+- Aircraft
+- Animal
+- Bus
+- Car
+- Helicopter
+- Human
+- Motorcycle
+- Pole
+- Stone
+- Tank
+- Tree
+- Truck
+nc: 12
+roboflow:
+  license: CC BY 4.0
+  project: militerry-object
+  url: https://universe.roboflow.com/my-project-g12c4/militerry-object/dataset/5
+  version: 5
+  workspace: my-project-g12c4
+test: D:/Data HDD/Data Kuliah Rafi Alfarisi/Semester 8/Tugas Akhir/Final/YOLOV5/dataset/test/images
+train: D:/Data HDD/Data Kuliah Rafi Alfarisi/Semester 8/Tugas Akhir/Final/YOLOV5/dataset/train/images
+val: D:/Data HDD/Data Kuliah Rafi Alfarisi/Semester 8/Tugas Akhir/Final/YOLOV5/dataset/valid/images
